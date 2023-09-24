@@ -115,13 +115,15 @@ A mesma análise comparativa foi feita em relação a média de gastos por pedid
 
 Olhando essas duas análises comparativas, prevalece a mesma questão: será que esse canal está seguindo as melhores estratégias para a manutenção desses assinantes com essa média de itens e esssa média de gastos?
 
+## Resumo dos aprendizados
+
+Levando em consideração a análise feita, em suma, das 505 pessoas, a maior quantidade de pessoas cancelou a assinatura do serviço no ano de 2020, tendo um aumento considerável em 2021. Eles estão, em sua maioria, distribuídas na região norte ou proximidades do país e cancelaram nos 6 primeiros meses a partir da de criação da assinatura, sendo que o maior índice de cancelamento foi antes de completar um mês. Esses assinantes também fizeram o cancelamento com maior frequência antes de completar um mês da ultima compra e tem maiores índices de cancelamento nos primeiros 6 meses após a última compra. Também foi notado que a média de pedidos e de receita das assinaturas canceladas são menores que a média geral dos assinantes.
+
+Além disso, o canal de marketing também influencia na distribuição dos cancelamentos. Foi visto que os canais organic search e direct têm o primeiro e o segundo maiores índices de cancelamento, respectivamente. Ao fazer uma comparação da quantidade de itens e os gastos por pedido, dos cancelamentos e dos cancelamentos das assinaturas do organic search, vemos uma semelhança, o que pode deixar entendido que provavelmente a estratégia que esse canal está usando não está sendo favorável ao público assinante.
+
 
 ## Próximos passos
 
-Levando em consideração a análise feita, em suma das 505 pessoas, a maior quantidade de pessoas cancelou a assinatura do serviço no ano de 2020, tendo um aumento considerável em 2021. Eles estão, em sua maioria, distribuidas na região norte ou proximidades do país e cancelaram nos 6 primeiros meses a partir da de criação da assinatura, sendo que o maior indice de cancelamento foi antes de completar um mês. Esses assinantes também fizeram o cancelamento com maior frequência antes de completar um mês da ultima compra e tem maior indice de cancelamento nos primeiros 6 meses após a última compra. Tambem foi notado que a média de pedidos e de receita das assinaturas canceladas são menores que a média geral dos assinantes.
-
-Além disso, também foi válido saber que o canal de marketing também influencia na distribuição dos cancelamentos. Foi visto que os canais organic search e direct têm dos dois maiores indice de cancelamento.
-E ao fazer uma comparação da quantidade de itens e os gastos por pedido, dos cancelamentos e dos cancelamentos das assinaturas do organic search, vemos uma semelhança, o que pode deixar entendido que provavelmente a estratégia que esse canal está usando não está sendo favorável ao publico.
 
 
 
