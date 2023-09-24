@@ -124,9 +124,38 @@ Além disso, o canal de marketing também influencia na distribuição dos cance
 
 ## Próximos passos
 
+Para resolver esse problema de churn é necessário analisar outras informações e verificar se é possível fazer melhorias no serviço.
+Por isso, trouxe algumas análises possíveis e estratégias que podem amenizar esse problema na empresa.
 
+1. Analisar se a empresa está trazendo atualidades do mercado para seus clientes.
+    - Frequência do churn maior nos últimos anos.
+    - Estratégia → **Inovação contínua: mantenha-se atualizado com as tendências do mercado e busque maneiras de inovar e oferecer novos benefícios aos assinantes.**
 
+2. Na análise feita, foi visto que maior parte do churn está nos primeiros 6 meses de assinatura, sendo ainda maior antes de completar um mês de uso.
+    - Estratégia → **Programa de fidelidade: é importante fazer um programa de fidelidade para recompensar clientes fiéis com descontos adicionais, brindes e acesso a ofertas exclusivas.**
+        - O período de tempo para que o assinante seja beneficiado com esse recurso deverá ser planejado com testes e análises futuras
+            - Com base na análise, provavelmente iniciará o ideal será o iniciar nas primeiras semanas de uso e com maior frequência nos primeiros 6 meses.
+            
+3. Analisar se a assinatura se adequa às características dos clientes que mais cancelam
+    - Verificar se é possível oferecer mais planos que se encaixem melhor a realidade dessas pessoas
+        - Os assinantes cancelaram mais antes de completar um mês da última compra.
+    - Verificar a **oferta de flexibilidade** que é fornecida: Os clientes estão conseguindo ajustar seus planos corretamente, como a pausa da assinatura, frequência de entrega e personalização dos itens?
+    
+4. A média dos pedidos e de receita das assinaturas canceladas são menores que a média geral dos assinantes
+    - Estratégia → **Reavaliação periódica de preços: Certifique-se de que o preço do plano de assinatura seja competitivo e ajustável em relação aos benefícios oferecidos. Considere ajustar preços com base na análise do mercado e nos feedbacks dos consumidores.**
 
+5. Analisar a influência da região geográfica e **quais** **os** **problemas** que fazem com que no Norte e proximidades tenham um maior churn
+    - A entrega nessa área está acontecendo no prazo correto? Os produtos chegam em condições ideais no local?
+    - Estratégia → **Aprimore o atendimento ao cliente: é importante ter um suporte ao cliente eficiente e acessível para entender os problemas e conseguir resolve-los rapidamente.**
+    - A experiência do cliente é fundamental na retenção de assinantes.
+
+6. Analisar estratégias utilizadas pelos canais de marketing com maior churn (organic search e direct)
+    - O canal está atendendo aos clientes com média de quantidade de itens e de gastos por pedido que mais cancelam?
+    - Como melhorar a estratégia para que atenda a um maior público de assinantes?
+    
+7. Estratégia geral → **Comunicação ativa com os assinantes: Envie emails ou mensagens informando sobre as próximas entregas, promoções e outros benefícios.**
+    - É viável a criação de **campanhas de marketing** para a **retomada** da assinatura, por meio de descontos no site para esse grupo de pessoas que cancelaram?
+    - É interessante o envio de email customizado também para os assinantes que **pausaram** a assinatura, para que tenham um possível retorno no uso do serviço.
 
 
 
