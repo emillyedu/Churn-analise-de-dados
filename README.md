@@ -49,7 +49,7 @@ gráfico da distribuição por mês-ano em 2020:
 <img src="graficos/canc_mes_2020.png" style="width: 800px; height: 400px;">
 
 
-###Distribuição do churn geograficamente
+### Distribuição do churn geograficamente
 Para começarmos a entender que grupo de assinantes tende a cancelar a assinatura, foi feita uma análise geográfica para saber a distribuição do Churn
 
 <img src="graficos/mapa.png" style="width: 400px; height: 300px;">
@@ -57,7 +57,7 @@ Para começarmos a entender que grupo de assinantes tende a cancelar a assinatur
 Percebe-se que a maior parte dos cancelamentos estão agrupados na região norte ou próximo a ela, o que pode ter relação com algum problema voltado à entrega, visto que a distribuição não é em uma região Central brasileira.
 
 
-###Frequência do cancelamento
+### Frequência do cancelamento
 
 É interessante analisar a frequência do cancelamento a partir da data de criação da assinatura, pois com isso podemos responder perguntas como: "será que os usuários que cancelaram o plano já o usam a muito tempo ou são novos?".
 
@@ -90,26 +90,26 @@ Assim, com gráfico podemos entender que os cancelamentos tendem a ser de um gru
 
 ### Canal de marketing
 
-Para buscar melhores meios de contornar o churn, é interessante entender a disttribuição das assinaturas cancelados por canal de marketing. Observando o gráfico de barras que traz essa relação entre valores e canal, se torna explicito ver que o organic_search tem maior quantidade de cancelamentos contados, seguido do direct.
+Para buscar melhores meios de contornar o churn, também é virtuoso notar a distribuição das assinaturas cancelados por canal de marketing. Observando o gráfico de barras que traz essa relação entre valores e canal, se torna explicito ver que o organic_search tem maior quantidade de cancelamentos contados, seguido do direct.
 
 <img src="graficos/canc_mkt.png" style="width: 600px; height: 400px;">
 
 
-Então, vale analisar em relação ao tempo para entender se esses dados condizem com os períodos que tiveram maior taxa de cancelamento, pois isso pode ser consequência de uma estratégia de markeitng que não abarange o público que em um momento efetuou o cancelamento da assinatura.
+Então, vale analisar em relação ao tempo para entender se esses dados condizem com os períodos que tiveram maior taxa de cancelamento, pois isso pode ser consequência de uma estratégia de markeitng que não abrangem o público Churn.
 
-Observando os dados de 2020, visto houve a maior quantidade de cancelamentos, e 2021, ano seguinte, condizente apenas a janeiro e fevereiro e com um numero de cancelamentos elevado, percebe-se que nos meses que houveram maior incidencia de cancelamentos, tinham mais assinantes do canal organic_search. Vale também observar que o mês com maior cancelamento (dez-2020) tinha mais assinantes do canal direct.
+Observando os dados de 2020, houve a maior quantidade de cancelamentos, e 2021, ano seguinte, condizente apenas a janeiro e fevereiro e com um numero de cancelamentos elevado, percebe-se que nos meses que houveram maior incidencia de cancelamentos, tinham mais assinantes do canal organic_search. Vale também observar que o mês com maior cancelamento (dez-2020) tinha mais assinantes do canal direct.
 
 <img src="graficos/mkt_mes_ano.png" style="width: 800px; height: 400px;">
 
 
 
-Tendo conhecimento sobre essa distribuição, foi analisado que grande parte das pessoas que cancelaram tinham em média entre 7 a 10 itens na assinatura. E, olhando para os churns por média de itens levando em consideração o canal organic_search, essa média também está entre 7 a 10 itens.
+Foi analisado que grande parte das pessoas que cancelaram tinham em média entre 7 a 10 itens na assinatura. E, olhando para os churns por média de itens levando em consideração o canal organic_search, essa média também está entre 7 a 10 itens.
 
 <img src="graficos/itens.png" style="width: 500px; height: 300px;"><img src="graficos/itens_mkt.png" style="width: 500px; height: 300px;">
 
 
 
-A mesma análise comparativa foi feita em relação a média de gastos por pedido e foi visto uma semelhança entre os dados gerais das assinaturas canceladas e os dados das assinaturas canceladas da organic_search. Os dois tem uma média de gastos maior entre 200 a 234, onde aproximadamente 40% dos dados nessa média são assinaturas da organic_search. 
+A mesma análise comparativa foi feita em relação a média de gastos por pedido e foi visto uma semelhança entre os dados gerais das assinaturas canceladas e os dados das assinaturas canceladas da organic_search. Os dois tem uma média de gastos maior entre 200 a 234. 
 
 <img src="graficos/gastos_pedido.png" style="width:500px; height: 300px;"><img src="graficos/gastos_pedido_mkt.png" style="width: 500px; height: 300px;">
 
