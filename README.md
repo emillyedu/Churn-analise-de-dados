@@ -1,4 +1,4 @@
-# Análise de dados Petlove - Investigação sobre o Churn da empresa
+# Análise de dados - Investigação sobre o Churn da empresa
 
 Essa análise de dados tem foco em investigar e entender o porquê do churn em uma empresa, para que possamos tomar providências em um futuro próximo e diminuir a perca de assinantes.
 
